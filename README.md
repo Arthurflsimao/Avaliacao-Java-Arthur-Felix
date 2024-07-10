@@ -23,10 +23,12 @@ Avaliacao-Java-Arthur-Felix/
 │   │   │   │   └── com/
 │   │   │   │       └── example/
 │   │   │   │           └── avaliacao/
-│   │   │   │               ├── controllers/
-│   │   │   │               ├── models/
-│   │   │   │               ├── repositories/
-│   │   │   │               ├── services/
+│   │   │   │               ├── configuration/
+│   │   │   │               ├── dto/
+│   │   │   │               ├── model/
+│   │   │   │               ├── repository/
+│   │   │   │               ├── resource/
+│   │   │   │               ├── service/
 │   │   │   │               └── AvaliacaoJavaApplication.java
 │   │   └── resources/
 │   │       └── application.properties
